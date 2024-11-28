@@ -1,3 +1,7 @@
+"""
+Implementación de una red neuronal de 3 parámetros 2 pesos y 1 sesgo , desarrollado para efectos didacticos, en el cual se revisan 
+conceptos como propagación hacia adelante y función de costo que en este caso tiene una versión simple  
+"""
 import numpy as np
 import matplotlib.pyplot as plt
 import pandas as pd
